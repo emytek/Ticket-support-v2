@@ -1,0 +1,5 @@
+authorization functionality in the backend server connected to a mongoD database
+
+full CRUD functionality in the tickets API attached to the frontend UI  
+
+the authService and ticketService enables it to interact with the API 
